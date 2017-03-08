@@ -1,4 +1,0 @@
-## Author:Eudie
-
-sudo systemctl stop mongodb
-mongod --dbpath /media/eudie/'New Volume'/DoNotDelete/MongoDB_data
